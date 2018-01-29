@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="austoj.asmx.cs" Class="AUSTOJ_Service.austoj" %>
